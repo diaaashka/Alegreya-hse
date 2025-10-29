@@ -1,0 +1,705 @@
+.screen .text-wrapper {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    letter-spacing: 0px;
+    line-height: 45px;
+    font-style: normal;
+}
+
+.screen .text-wrapper-2 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 350px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-3 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 350px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-4 {
+    font-family: "Alegreya-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 350px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-5 {
+    font-family: "Alegreya-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 350px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-6 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: normal;
+    font-style: normal;
+}
+
+.screen .text-wrapper-7 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: normal;
+    font-style: normal;
+}
+
+.screen .text-wrapper-8 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: normal;
+    font-style: normal;
+}
+
+.screen .text-wrapper-9 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: normal;
+    font-style: normal;
+}
+
+.screen .philosophy-title {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 96px;
+    letter-spacing: 0px;
+    line-height: 78px;
+}
+
+.screen .philosophy-text {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: 0px;
+    line-height: normal;
+    font-style: normal;
+}
+
+.screen .span {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: 0px;
+    font-style: normal;
+    line-height: normal;
+}
+
+.screen .text-wrapper-11 {
+    font-family: "Alegreya-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 150px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-12 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-13 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-14 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-15 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-16 {
+    font-family: "Alegreya-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-17 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-18 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-19 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-20 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-21 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .a {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-22 {
+    font-family: "Alegreya-MediumItalic", Helvetica;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-23 {
+    font-family: "Alegreya-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-24 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 150px;
+    text-align: right;
+    line-height: normal;
+    white-space: nowrap;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-25 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    text-align: right;
+    letter-spacing: 0px;
+    line-height: 45px;
+    font-style: normal;
+}
+
+.screen .p {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    letter-spacing: 0px;
+    line-height: 45px;
+    font-style: normal;
+}
+
+.screen .text-wrapper-26 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-size: 70px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: normal;
+    font-style: normal;
+}
+
+.screen .text-wrapper-27 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 400px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-28 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    letter-spacing: 0px;
+    line-height: 45px;
+    font-style: normal;
+}
+
+.screen .a-2 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    text-align: right;
+    line-height: 45px;
+    letter-spacing: 0px;
+    font-style: normal;
+}
+
+.screen .text-wrapper-29 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 96px;
+    letter-spacing: 0px;
+    line-height: 78px;
+    white-space: nowrap;
+}
+
+.screen .element {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    letter-spacing: 0px;
+    line-height: 45px;
+    font-style: normal;
+}
+
+.screen .text-wrapper-30 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 78px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-31 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 78px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-32 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0px;
+    line-height: 78px;
+    white-space: nowrap;
+}
+
+.screen .a-3 {
+    font-family: "Alegreya-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 400px;
+    text-align: center;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .l-2 {
+    font-family: "Alegreya-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 300px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.screen .e {
+    font-family: "Alegreya-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 350px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .g-2 {
+    font-family: "Alegreya-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 400px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .r-2 {
+    font-family: "Alegreya-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 433.2px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .e-2 {
+    font-family: "Alegreya-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 350px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.screen .y {
+    font-family: "Alegreya-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 350px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .a-4 {
+    font-family: "Alegreya-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 350px;
+    text-align: center;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-33 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 600px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-34 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 96px;
+    letter-spacing: 0px;
+    line-height: 78px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-35 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    text-align: right;
+    letter-spacing: 0px;
+    line-height: 45px;
+    font-style: normal;
+}
+
+.screen .text-wrapper-36 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 35px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-37 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 35px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .hej {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 35px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .ci-o {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 35px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-38 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+}
+
+.screen .text-wrapper-39 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-40 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-41 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-42 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+}
+
+.screen .text-wrapper-43 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-44 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-45 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-46 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-47 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-48 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-49 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-50 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 120px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-51 {
+    font-family: "Alegreya-ExtraBoldItalic", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 150px;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+}
+
+.screen .text-wrapper-52 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    text-align: right;
+    letter-spacing: 0px;
+    line-height: 45px;
+    font-style: normal;
+}
+
+.screen .element-3 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    letter-spacing: 0px;
+    line-height: 45px;
+    font-style: normal;
+}
+
+.screen .text-wrapper-53 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 500;
+    font-size: 35px;
+    text-align: right;
+    letter-spacing: 0px;
+    line-height: 45px;
+    font-style: normal;
+}
+
+.screen .text-wrapper-54 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 1100px;
+    line-height: normal;
+    letter-spacing: 0;
+}
+
+.screen .text-wrapper-55 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 400px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-56 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.screen .text-wrapper-57 {
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-weight: 800;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: 50px;
+}
+
+.screen .text-wrapper-58 {
+    font-family: "Alegreya", Helvetica;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 96px;
+    letter-spacing: 0px;
+    line-height: 78px;
+}
