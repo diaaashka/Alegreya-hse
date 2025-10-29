@@ -1,4 +1,5 @@
-/* ИСПРАВЛЕНИЕ: ПУТИ К ШРИФТАМ НА TTF */
+/* ИСПРАВЛЕНИЕ: ПУТИ К ШРИФТАМ НА TTF И ОТНОСИТЕЛЬНЫЙ ПУТЬ */
+
 @font-face {
     font-family: 'Alegreya';
     src: url('../fonts/Alegreya-Regular.ttf') format('truetype');
@@ -34,7 +35,7 @@
     font-style: italic;
 }
 
-/* ОРИГИНАЛЬНЫЕ СТИЛИ КЛАССОВ ИЗ ВАШЕГО ФАЙЛА fonts.css */
+/* ОРИГИНАЛЬНЫЕ СТИЛИ КЛАССОВ ИЗ ВАШЕГО ФАЙЛА fonts.css (оставлены без изменений) */
 .screen .text-wrapper {
     font-family: "Alegreya", Helvetica;
     font-weight: 500;
